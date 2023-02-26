@@ -5,7 +5,6 @@
 
 ]]
 
-
 local Emojis = game:GetService("HttpService"):JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/Exunys/Emoji-Chat/main/Resources/Emojis.json"))
 local Name, Method, Index = table.unpack(game:GetService("HttpService"):JSONDecode(game:HttpGetAsync("https://raw.githubusercontent.com/Exunys/Emoji-Chat/main/Resources/Games.json"))[tostring(game.PlaceId)] or {"SayMessageRequest", "FireServer", 1})
 
