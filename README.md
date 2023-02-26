@@ -33,7 +33,6 @@ Currently supported games:
 
 ![image](https://user-images.githubusercontent.com/76539058/221434038-a3787262-77fe-478a-bc85-b16bf0308a08.png)
 
-
 ## 📧Contact Information
 ### - [Discord](https://discord.com/users/611111398818316309)
 ### - [E-Mail](mailto:exunys@gang.email)
