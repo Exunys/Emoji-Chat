@@ -1,4 +1,5 @@
-# 🙂Emoji Chat [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Exunys.Emoji-Chat)](https://github.com/Exunys/Emoji-Chat)
+# 🙂Emoji Chat [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Emoji-Chat&right_color=yellow)](https://github.com/Exunys/Emoji-Chat)
+
 
 Extension for emojis in ROBLOX's chat.
 
