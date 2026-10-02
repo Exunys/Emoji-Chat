@@ -1,6 +1,5 @@
 # 🙂Emoji Chat [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Exunys.Emoji-Chat&right_color=yellow)](https://github.com/Exunys/Emoji-Chat)
 
-
 Extension for emojis in ROBLOX's chat.
 
 ## 📑Script
@@ -23,6 +22,7 @@ I will try to modulize support for every game with custom chatting systems for t
 Currently supported games:
 - Any game with a default chat system
 - [Arsenal](https://roblox.com/games/286090429)
+- If you want to add support for any more games, feel free to contribute to the repository (actually do it please).
 
 ## 🖼️Previews
 
@@ -36,4 +36,4 @@ Currently supported games:
 
 ## 📧Contact Information
 ### - [Discord](https://discord.com/users/611111398818316309)
-### - [E-Mail](mailto:exunys@gang.email)
+### - [E-Mail](mailto:exunys@gmail.com)
